@@ -2,7 +2,7 @@
 // API Client — Google Apps Script Backend
 // ============================================================
 
-var APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxdgX-stspeL1yhT5P1RYNG8Wk-DDdaXZlOljK6KLUIjDrC-DHvKFIebOvkJfclXSfr3g/exec';
+var APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyqBlZ3OcUuaF4jCN9qnHfxtUQ7_L1SIwEJDH-xSkVFwsTJJ7T-gHGc7fsiWtEEkBa5/exec';
 
 // Google Apps Script ตอบไม่สม่ำเสมอ: ส่วนใหญ่ 3-6 วินาที แต่บางรอบใช้ 30-40 วินาที หรือตอบเป็นหน้า error
 // โดยไม่เกี่ยวกับคำสั่งที่เรียก (วัดจากคำสั่งเปล่าที่ไม่อ่านชีตก็เป็น) จึงต้องรับมือที่ฝั่งหน้าเว็บ
